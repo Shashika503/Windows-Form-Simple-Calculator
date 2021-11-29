@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculator", "Caculator\Caculator.csproj", "{946023ED-5CE9-4966-9E1D-FC5D906BEB6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946023ED-5CE9-4966-9E1D-FC5D906BEB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946023ED-5CE9-4966-9E1D-FC5D906BEB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946023ED-5CE9-4966-9E1D-FC5D906BEB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946023ED-5CE9-4966-9E1D-FC5D906BEB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63D68341-3887-48EC-A5CA-43B24ABD2F26}
+	EndGlobalSection
+EndGlobal

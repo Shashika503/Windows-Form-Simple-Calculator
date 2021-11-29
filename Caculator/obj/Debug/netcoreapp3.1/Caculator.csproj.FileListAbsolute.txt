@@ -1,0 +1,15 @@
+C:\Users\Shashika\source\repos\Caculator\Caculator\bin\Debug\netcoreapp3.1\Caculator.exe
+C:\Users\Shashika\source\repos\Caculator\Caculator\bin\Debug\netcoreapp3.1\Caculator.deps.json
+C:\Users\Shashika\source\repos\Caculator\Caculator\bin\Debug\netcoreapp3.1\Caculator.runtimeconfig.json
+C:\Users\Shashika\source\repos\Caculator\Caculator\bin\Debug\netcoreapp3.1\Caculator.runtimeconfig.dev.json
+C:\Users\Shashika\source\repos\Caculator\Caculator\bin\Debug\netcoreapp3.1\Caculator.dll
+C:\Users\Shashika\source\repos\Caculator\Caculator\bin\Debug\netcoreapp3.1\Caculator.pdb
+C:\Users\Shashika\source\repos\Caculator\Caculator\obj\Debug\netcoreapp3.1\Caculator.csproj.AssemblyReference.cache
+C:\Users\Shashika\source\repos\Caculator\Caculator\obj\Debug\netcoreapp3.1\Caculator.Form1.resources
+C:\Users\Shashika\source\repos\Caculator\Caculator\obj\Debug\netcoreapp3.1\Caculator.csproj.GenerateResource.cache
+C:\Users\Shashika\source\repos\Caculator\Caculator\obj\Debug\netcoreapp3.1\Caculator.AssemblyInfoInputs.cache
+C:\Users\Shashika\source\repos\Caculator\Caculator\obj\Debug\netcoreapp3.1\Caculator.AssemblyInfo.cs
+C:\Users\Shashika\source\repos\Caculator\Caculator\obj\Debug\netcoreapp3.1\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\Shashika\source\repos\Caculator\Caculator\obj\Debug\netcoreapp3.1\Caculator.dll
+C:\Users\Shashika\source\repos\Caculator\Caculator\obj\Debug\netcoreapp3.1\Caculator.pdb
+C:\Users\Shashika\source\repos\Caculator\Caculator\obj\Debug\netcoreapp3.1\Caculator.genruntimeconfig.cache
